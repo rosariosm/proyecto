@@ -1,1 +1,1 @@
-# proyecto
+Ejemplo de la Home
